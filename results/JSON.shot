@@ -1,0 +1,9 @@
+{
+  "snapshot": "smoke_run",
+  "seed": 42,
+  "final_test_accuracy": 1.0,
+  "attention_alignment_accuracy": 0.9921875,
+  "runtime_seconds": 1.797,
+  "unit_checks_passed": true,
+  "plots": ["loss_accuracy.png", "attention_heatmap.png"]
+}

@@ -1,0 +1,9 @@
+{
+  "project": "ai-learn-01-attention-scratch",
+  "final_train_accuracy": 1.0,
+  "final_test_accuracy": 1.0,
+  "attention_alignment_accuracy": 0.9921875,
+  "final_train_loss": 0.0129,
+  "runtime_seconds": 1.797,
+  "unit_checks_passed": true
+}
